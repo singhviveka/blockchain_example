@@ -8,7 +8,7 @@ Output (mine_block):</br>
 "proof":533,
 "timestamp":"2020-06-01 22:47:59.309000"
 }
-</br?
+</br>
 Output (get_chain):</br>
 
 {
