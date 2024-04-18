@@ -1,6 +1,5 @@
 # blockchain_example
-Blockchain example project
-Output (mine_block):
+Output (mine_block):</br>
 
 {
 "index":2,
@@ -9,7 +8,8 @@ Output (mine_block):
 "proof":533,
 "timestamp":"2020-06-01 22:47:59.309000"
 }
-Output (get_chain):
+</br?
+Output (get_chain):</br>
 
 {
 "chain":[{"index":1,
@@ -21,6 +21,7 @@ Output (get_chain):
 "timestamp":"2020-06-01 22:47:59.309000"}],
 "length":2
 }
-Output(valid):
+</br>
+Output(valid):</br>
 
 {"message":"The Blockchain is valid."}
